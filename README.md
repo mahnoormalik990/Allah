@@ -1,4 +1,4 @@
-# Allah
+# intro....
 its my first repository
 - 👋 Hi, I’m @mahnoormalik990
 
